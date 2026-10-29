@@ -112,6 +112,3 @@ This documentation is intended to demonstrate learning and practical investigati
 
 ---
 
-«Analyze the logs. Investigate the evidence. Detect suspicious activity. Strengthen the defense.»
-
-Continuous Learning | Blue Team Operations | Cybersecurity 🛡️
